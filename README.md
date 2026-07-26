@@ -1,6 +1,6 @@
 # hey, i'm DFanso
 
-i build web apps, backend services, and infrastructure. most of my repos are private, but i'm slowly moving new work here.
+i build web apps, backend services, and infrastructure.
 
 - working on [groundwork](https://github.com/dfansoo/groundwork)
 - mostly using typescript, c#/.net, and go
