@@ -29,8 +29,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dfansoo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Leo's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfansoo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dfansoo&theme=github_dark" alt="Leo's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dfansoo&theme=github_dark" alt="Most used languages" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfansoo&theme=github_dark" alt="GitHub profile details" />
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-![Contribution snake animation](https://raw.githubusercontent.com/dfansoo/dfansoo/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake animation](https://raw.githubusercontent.com/dfansoo/dfansoo/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
