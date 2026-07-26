@@ -2,7 +2,7 @@
 
 # Hi, I'm Leo 👋
 
-### Full-stack developer building modern web applications
+### Full-stack & DevOps engineer building applications, platforms, and infrastructure
 
 [![GitHub](https://img.shields.io/badge/GitHub-dfansoo-181717?style=for-the-badge&logo=github)](https://github.com/dfansoo)
 [![Holopin](https://img.shields.io/badge/Holopin-dfanso-7B3FE4?style=for-the-badge&logo=holopin)](https://www.holopin.io/@dfanso)
@@ -12,18 +12,29 @@
 
 ## About me
 
-- 🚀 Building full-stack applications and reusable developer tooling
-- 🧰 Working with TypeScript, Next.js, NestJS, Prisma, and Turborepo
+- 🚀 Building full-stack applications, cloud infrastructure, and reusable developer tooling
+- 🧰 Working across TypeScript, C#/.NET, Go, Python, and systems languages
+- ⚙️ Practicing DevOps with containers, Kubernetes, Terraform, CI/CD, Linux, and observability
 - 🌱 Rebuilding my open-source presence on this account
 - 🏗️ Currently developing [Groundwork](https://github.com/dfansoo/groundwork), a production-ready full-stack boilerplate
 
-## Tech stack
+## Languages & application development
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,react,nodejs,tailwind,prisma,postgres,docker,bun,git,github,vscode&perline=7)](https://skillicons.dev)
+[![Languages and frameworks](https://skillicons.dev/icons?i=ts,js,cs,dotnet,go,py,rust,java,cpp,php,nextjs,nestjs,react,nodejs,tailwind,prisma,postgres,bun&perline=9)](https://skillicons.dev)
 
 </div>
+
+## DevOps, cloud & infrastructure
+
+<div align="center">
+
+[![DevOps and infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,nginx,githubactions,powershell,bash,git,github,cloudflare,prometheus,grafana,redis,vscode&perline=8)](https://skillicons.dev)
+
+</div>
+
+My experience spans public and private projects, including containerized services, infrastructure as code, Kubernetes and K3s, AWS EKS/ECS, CI/CD pipelines, Nginx, VPN and networking automation, and monitoring stacks. Private repository names and implementation details remain private.
 
 ## GitHub analytics
 
