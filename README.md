@@ -27,4 +27,4 @@ i build web apps, backend services, and infrastructure.
 
 ## old account
 
-github suspended my old account, [@DFanso](https://github.com/DFanso). i contacted support on june 30, 2026 and i'm still waiting for an update.
+github suspended my old account, [@DFanso](https://github.com/DFanso). i contacted support on June 30, 2026, and got the account back on august 25, 2026.
